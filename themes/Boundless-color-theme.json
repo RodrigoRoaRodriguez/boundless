@@ -3,18 +3,18 @@
   "type": "dark",
   "semanticHighlighting": true,
   "colors": {
-    "editor.background": "#222",
+    "editor.background": "#1e1e1e",
     "activityBar.background": "#1a1a1a",
     "editorGroupHeader.tabsBackground": "#1a1a1a",
     "tab.inactiveBackground": "#1a1a1a",
-    "activityBar.activeBackground": "#222",
+    "activityBar.activeBackground": "#1e1e1e",
     "sideBar.background": "#1a1a1a",
     "panel.background": "#1a1a1a",
     "tab.border": "#1a1a1a",
     "sideBarSectionHeader.background": "#1a1a1a",
-    "statusBar.background": "#222",
-    "statusBar.noFolderBackground": "#222",
-    "tab.activeBackground": "#222",
+    "statusBar.background": "#1e1e1e",
+    "statusBar.noFolderBackground": "#1e1e1e",
+    "tab.activeBackground": "#1e1e1e",
     "editor.foreground": "#eeffff",
     "activityBarBadge.background": "#007acc",
     "sideBarTitle.foreground": "#bbbbbb",
@@ -107,7 +107,7 @@
         "markup.deleted.git_gutter"
       ],
       "settings": {
-        "foreground": "#f07178"
+        "foreground": "#fc6bbb"
       }
     },
     {
@@ -138,7 +138,7 @@
         "variable.other.constant.property"
       ],
       "settings": {
-        "foreground": "#baefff"
+        "foreground": "#8ba0ff"
       }
     },
     {
@@ -200,9 +200,9 @@
     },
     {
       "name": "Types",
-      "scope": ["entity.name", "support.type", "support.type.sys-types"],
+      "scope": ["entity.name", "support.type.sys-types"],
       "settings": {
-        "foreground": "#7730fc"
+        "foreground": "#9258ff"
       }
     },
 
@@ -210,7 +210,7 @@
       "name": "Entity Types",
       "scope": ["support.type"],
       "settings": {
-        "foreground": "#B2CCD6"
+        "foreground": "#FC6BBB"
       }
     },
     {
@@ -268,7 +268,7 @@
       "name": "Attributes",
       "scope": ["entity.other.attribute-name"],
       "settings": {
-        "foreground": "#baefff"
+        "foreground": "#8BA0FF"
       }
     },
     {
@@ -604,6 +604,6 @@
       "settings": {
         "foreground": "#EEFFFF"
       }
-    }
+    },
   ]
 }
