@@ -1,6 +1,6 @@
 {
-  "name": "borderless",
-  "displayName": "Borderless",
+  "name": "boundless",
+  "displayName": "Boundless",
   "description": "Ultra-minimalistic flat design for distraction-free coding.",
   "publisher": "rodrigoroar",
   "repository": "",
@@ -14,9 +14,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Void",
+        "label": "Boundless",
         "uiTheme": "vs-dark",
-        "path": "./themes/Void-color-theme.json"
+        "path": "./themes/Boundless-color-theme.json"
       }
     ]
   }
