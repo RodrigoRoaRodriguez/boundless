@@ -3,7 +3,7 @@
   "displayName": "Boundless",
   "description": "Ultra-minimalistic flat design for distraction-free coding.",
   "publisher": "rodrigoroar",
-  "repository": "",
+  "repository": "https://github.com/RodrigoRoaRodriguez/boundless",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.45.0"
