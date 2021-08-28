@@ -1,7 +1,5 @@
+The original boundless theme for distraction free coding. Flat edgeless low contrast backgrounds and high contrast text, to fade away the fluff and highlight what really matters: your code. 
+
 <p align="center">
-<picture>
-  <source srcset="https://raw.githubusercontent.com/RodrigoRoaRodriguez/boundless/master/Screenshot.avif" type="image/avif">
-  <source srcset="https://raw.githubusercontent.com/RodrigoRoaRodriguez/boundless/master/Screenshot.webp" type="image/webp">
   <img src="https://raw.githubusercontent.com/RodrigoRoaRodriguez/boundless/master/Screenshot.png" alt="Screenshot">
-</picture>
 </p>
