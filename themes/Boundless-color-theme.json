@@ -18,7 +18,11 @@
     "editor.foreground": "#eeffff",
     "activityBarBadge.background": "#007acc",
     "sideBarTitle.foreground": "#bbbbbb",
-    "diffEditor.insertedTextBackground": "#2c440088"
+    "diffEditor.insertedTextBackground": "#2c440088",
+    "sash.hoverBorder": "#007acc",
+    "editor.selectionBackground": "#00a8",
+    "editorBracketMatch.background": "#00a",
+    "editorBracketMatch.border": "#0000",
   },
   "tokenColors": [
     {
