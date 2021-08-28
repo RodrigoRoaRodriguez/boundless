@@ -22,7 +22,7 @@
     "sash.hoverBorder": "#007acc",
     "editor.selectionBackground": "#00a8",
     "editorBracketMatch.background": "#00a",
-    "editorBracketMatch.border": "#0000",
+    "editorBracketMatch.border": "#0000"
   },
   "tokenColors": [
     {
@@ -609,5 +609,19 @@
         "foreground": "#EEFFFF"
       }
     },
+    {
+      "name": "shell variables",
+      "scope": "variable.other.normal.shell",
+      "settings": {
+        "foreground": "#9999ff"
+      }
+    },
+    {
+      "name": "shell interpolation",
+      "scope": "string.interpolated.dollar.shell",
+      "settings": {
+        "foreground": "#88DDFF"
+      }
+    }
   ]
 }
