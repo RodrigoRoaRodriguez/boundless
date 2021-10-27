@@ -22,7 +22,14 @@
     "sash.hoverBorder": "#007acc",
     "editor.selectionBackground": "#00a8",
     "editorBracketMatch.background": "#00a",
-    "editorBracketMatch.border": "#0000"
+    "editorBracketMatch.border": "#0000",
+    // Brace colorization
+    "editorBracketHighlight.foreground6": "#CF0DE5",
+    "editorBracketHighlight.foreground5": "#7148F1",
+    "editorBracketHighlight.foreground4": "#1b84fd",
+    "editorBracketHighlight.foreground3": "#12bbd1",
+    "editorBracketHighlight.foreground2": "#429978",
+    "editorBracketHighlight.foreground1": "#2da508"
   },
   "tokenColors": [
     {
