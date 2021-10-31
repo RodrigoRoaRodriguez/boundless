@@ -21,3 +21,7 @@
 ## 0.0.5 (2021-10-27)
 
 - Brace colorization
+
+## 0.0.6 (2021-10-31)
+
+- Make active tab more clearly highlighted by making the empty space behind the tabs darker.

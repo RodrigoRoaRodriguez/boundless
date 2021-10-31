@@ -5,12 +5,12 @@
   "colors": {
     "editor.background": "#1e1e1e",
     "activityBar.background": "#1a1a1a",
-    "editorGroupHeader.tabsBackground": "#1a1a1a",
-    "tab.inactiveBackground": "#1a1a1a",
+    "tab.inactiveBackground": "#111",
+    "editorGroupHeader.tabsBackground": "#111",
+    "tab.border": "#1a1a1a",
     "activityBar.activeBackground": "#1e1e1e",
     "sideBar.background": "#1a1a1a",
     "panel.background": "#1a1a1a",
-    "tab.border": "#1a1a1a",
     "sideBarSectionHeader.background": "#1a1a1a",
     "statusBar.background": "#1e1e1e",
     "statusBar.noFolderBackground": "#1e1e1e",
@@ -23,6 +23,7 @@
     "editor.selectionBackground": "#00a8",
     "editorBracketMatch.background": "#00a",
     "editorBracketMatch.border": "#0000",
+
     // Brace colorization
     "editorBracketHighlight.foreground6": "#CF0DE5",
     "editorBracketHighlight.foreground5": "#7148F1",
@@ -58,7 +59,7 @@
       "name": "Invalid",
       "scope": ["invalid", "invalid.illegal"],
       "settings": {
-        "foreground": "#6688aa"
+        "foreground": "#aa6666"
       }
     },
     {
