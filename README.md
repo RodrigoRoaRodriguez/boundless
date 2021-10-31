@@ -3,3 +3,8 @@ The original boundless theme for distraction free coding. Flat edgeless low cont
 <p align="center">
   <img src="https://raw.githubusercontent.com/RodrigoRoaRodriguez/boundless/master/Screenshot.png" alt="Screenshot">
 </p>
+
+To enable the rainbow braces go to settings and turn on "Bracket Pair Colorization":
+```json
+  "editor.bracketPairColorization.enabled": true,
+```
