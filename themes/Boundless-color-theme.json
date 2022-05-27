@@ -23,7 +23,11 @@
     "editor.selectionBackground": "#00a8",
     "editorBracketMatch.background": "#00a",
     "editorBracketMatch.border": "#0000",
-
+    "notebook.cellBorderColor": "#0001",
+    "notebook.focusedCellBorder": "#007acc",
+    "notebook.selectedCellBorder": "#007acc",
+    "notebook.inactiveSelectedCellBorder": "#1a1a1a",
+    "notebook.cellToolbarSeparator": "#7771",
     // Brace colorization
     "editorBracketHighlight.foreground6": "#CF0DE5",
     "editorBracketHighlight.foreground5": "#7148F1",
