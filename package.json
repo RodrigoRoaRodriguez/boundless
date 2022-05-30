@@ -4,7 +4,8 @@
   "description": "Ultra-minimalistic flat design for distraction-free coding.",
   "publisher": "rodrigoroar",
   "repository": "https://github.com/RodrigoRoaRodriguez/boundless",
-  "version": "0.0.6",
+  "version": "0.0.7",
+  "scripts": {},
   "engines": {
     "vscode": "^1.45.0"
   },

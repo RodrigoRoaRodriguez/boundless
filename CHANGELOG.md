@@ -25,3 +25,7 @@
 ## 0.0.6 (2021-10-31)
 
 - Make active tab more clearly highlighted by making the empty space behind the tabs darker.
+
+## 0.0.7 (2022-05-30)
+
+- Notebooks support. Notebooks without borders for distraction free phythonistas.
