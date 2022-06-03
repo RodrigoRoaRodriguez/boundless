@@ -4,8 +4,25 @@
   "description": "Ultra-minimalistic flat design for distraction-free coding.",
   "publisher": "rodrigoroar",
   "repository": "https://github.com/RodrigoRoaRodriguez/boundless",
-  "version": "0.0.7",
-  "scripts": {},
+  "keywords": [
+    "flat",
+    "minimal",
+    "design",
+    "distraction-free",
+    "coding",
+    "pink",
+    "borderless",
+    "purple",
+    "dark",
+    "light",
+    "python",
+    "notebooks",
+    "jupyter"
+  ],
+  "version": "0.1.0",
+  "scripts": {
+    "deploy": "vsce package && vsce publish"
+  },
   "engines": {
     "vscode": "^1.45.0"
   },
@@ -23,6 +40,11 @@
         "label": "Boundless",
         "uiTheme": "vs-dark",
         "path": "./themes/Boundless-color-theme.json"
+      },
+      {
+        "label": "Boundless Flamingo",
+        "uiTheme": "vs",
+        "path": "./themes/Boundless-flamingo-color-theme.json"
       }
     ]
   }
