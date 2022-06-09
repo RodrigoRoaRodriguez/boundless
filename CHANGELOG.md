@@ -29,3 +29,11 @@
 ## 0.0.7 (2022-05-30)
 
 - Notebooks support. Notebooks without borders for distraction free phythonistas.
+
+## 0.1.0 (2022-06-03)
+
+- Added 'Boundless Flamingo' theme
+
+## 0.1.1 (2022-06-09)
+
+- HTML tag text content is now green rather than orange to better contrast with the red HTML tag foreground.

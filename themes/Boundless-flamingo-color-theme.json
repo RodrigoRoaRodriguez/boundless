@@ -485,7 +485,14 @@
       }
     },
     {
-      "name": "Operator, Misc",
+      "name": "HTML textContent and meta",
+      "scope": ["meta.tag"],
+      "settings": {
+        "foreground": "#5d8d33"
+      }
+    },
+    {
+      "name": "Punctuation",
       "scope": [
         "punctuation",
         "punctuation.definition.tag",

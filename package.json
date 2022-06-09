@@ -19,7 +19,7 @@
     "notebooks",
     "jupyter"
   ],
-  "version": "0.1.0",
+  "version": "0.1.1",
   "scripts": {
     "deploy": "vsce package && vsce publish"
   },
