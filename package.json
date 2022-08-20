@@ -4,6 +4,9 @@
   "description": "Ultra-minimalistic flat design for distraction-free coding.",
   "publisher": "rodrigoroar",
   "repository": "https://github.com/RodrigoRoaRodriguez/boundless",
+  "scripts": {
+    "deploy": "vsce package && vsce publish"
+  },
   "keywords": [
     "flat",
     "minimal",
@@ -19,10 +22,7 @@
     "notebooks",
     "jupyter"
   ],
-  "version": "0.1.1",
-  "scripts": {
-    "deploy": "vsce package && vsce publish"
-  },
+  "version": "0.1.2",
   "engines": {
     "vscode": "^1.45.0"
   },
