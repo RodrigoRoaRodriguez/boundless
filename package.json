@@ -48,5 +48,6 @@
         "path": "./themes/Boundless-flamingo-color-theme.json"
       }
     ]
-  }
+  },
+  "license": "MIT"
 }
