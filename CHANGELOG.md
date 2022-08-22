@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.3](https://github.com/RodrigoRoaRodriguez/boundless/compare/v0.1.2...v0.1.3) (2022-08-22)
+
 ### 0.1.2 (2022-08-20)
 
 - Increases text contrast color in boundless flamingo. Reading code should not be straining on the eyes.
