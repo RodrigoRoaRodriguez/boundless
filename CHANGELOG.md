@@ -4,6 +4,8 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### [0.1.3](https://github.com/RodrigoRoaRodriguez/boundless/compare/v0.1.2...v0.1.3) (2022-08-22)
 
+Adds a flow keyword color. Makes git ignored files unsaturated gray rather than pink.
+
 ### 0.1.2 (2022-08-20)
 
 - Increases text contrast color in boundless flamingo. Reading code should not be straining on the eyes.

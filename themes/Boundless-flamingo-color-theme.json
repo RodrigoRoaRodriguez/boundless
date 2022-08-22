@@ -176,7 +176,7 @@
     "gitDecoration.addedResourceForeground": "#62ad44",
     "gitDecoration.conflictingResourceForeground": "#e6009d",
     "gitDecoration.deletedResourceForeground": "#d14040",
-    "gitDecoration.ignoredResourceForeground": "#887f86",
+    "gitDecoration.ignoredResourceForeground": "#894a6980",
     "gitDecoration.modifiedResourceForeground": "#e49f29",
     "gitDecoration.renamedResourceForeground": "#a38801",
     "gitDecoration.stageDeletedResourceForeground": "#ff0062",
@@ -465,23 +465,31 @@
     },
     {
       "name": "Storage", // const, let, =
-      "scope": ["storage.type", "storage.modifier"],
+      "scope": [
+        "storage.type",
+        "storage.modifier",
+        "keyword.control.import",
+        "meta.tag"
+      ],
       "settings": {
-        "foreground": "#eeaa22"
+        "foreground": "#e69d00"
       }
     },
     {
       "name": "Operator, Misc",
       "scope": [
-        "keyword.control",
         "constant.other.color",
-        "meta.tag",
         "keyword.other.template",
-        "keyword.other.substitution",
-        "keyword.control.import"
+        "keyword.other.substitution"
       ],
       "settings": {
         "foreground": "#ff6644"
+      }
+    },
+    {
+      "scope": ["keyword.control"],
+      "settings": {
+        "foreground": "#069b29"
       }
     },
     {
@@ -533,7 +541,7 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        "foreground": "#7d0ffa"
+        "foreground": "#0f7dfa"
       }
     },
     {
@@ -551,7 +559,7 @@
         "variable.other.constant.property"
       ],
       "settings": {
-        "foreground": "#0077BB"
+        "foreground": "#7600bb"
       }
     },
     {
@@ -609,7 +617,7 @@
         "markup.changed.git_gutter"
       ],
       "settings": {
-        "foreground": "#e35"
+        "foreground": "#ee33b0"
       }
     },
     {
