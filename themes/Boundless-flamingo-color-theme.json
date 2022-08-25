@@ -122,7 +122,7 @@
     "editorHoverWidget.statusBarBackground": "#f5eaf5",
     "editorIndentGuide.activeBackground": "#939393",
     "editorIndentGuide.background": "#d3d3d3",
-    "editorInfo.foreground": "#75beff",
+    "editorInfo.foreground": "#4d8fc9",
     "editorLightBulb.foreground": "#ddb100",
     "editorLightBulbAutoFix.foreground": "#ff4574",
     "editorLineNumber.activeForeground": "#d634b0",
@@ -646,7 +646,7 @@
         "source.postcss support.type.property-name"
       ],
       "settings": {
-        "foreground": "#B2CCD6"
+        "foreground": "#0077BB"
       }
     },
     {

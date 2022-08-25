@@ -4,6 +4,8 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### [0.1.4](https://github.com/RodrigoRoaRodriguez/boundless/compare/v0.1.3...v0.1.4) (2022-08-25)
 
+Changes the CSS property color to be more legible and change function color to blue for consistency with Boundless void.
+
 ### [0.1.3](https://github.com/RodrigoRoaRodriguez/boundless/compare/v0.1.2...v0.1.3) (2022-08-22)
 
 Adds a flow keyword color. Makes git ignored files unsaturated gray rather than pink.
