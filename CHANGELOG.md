@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### [0.1.5](https://github.com/RodrigoRoaRodriguez/boundless/compare/v0.1.4...v0.1.5) (2022-09-08)
 
+Darker foreground texts for better legibility. This one especially focuses on git status decoration colors. Instead of yellow this version use a more legible purple for modified files.
+
+Also, better support of markup styling (e.g. bold and italic), although all combinations are not fully there yet.
+
 ### [0.1.4](https://github.com/RodrigoRoaRodriguez/boundless/compare/v0.1.3...v0.1.4) (2022-08-25)
 
 Changes the CSS property color to be more legible and change function color to blue for consistency with Boundless void.
