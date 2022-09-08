@@ -6,7 +6,7 @@
   "repository": "https://github.com/RodrigoRoaRodriguez/boundless",
   "scripts": {
     "release": "npx standard-version --release && code CHANGELOG.md",
-    "deploy": "vsce package && vsce publish"
+    "deploy": "npx vsce package && npx vsce publish"
   },
   "keywords": [
     "flat",
