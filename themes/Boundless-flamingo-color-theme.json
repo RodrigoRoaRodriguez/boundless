@@ -122,7 +122,7 @@
     "editorHoverWidget.statusBarBackground": "#f5eaf5",
     "editorIndentGuide.activeBackground": "#939393",
     "editorIndentGuide.background": "#d3d3d3",
-    "editorInfo.foreground": "#4d8fc9",
+    "editorInfo.foreground": "#75beff",
     "editorLightBulb.foreground": "#ddb100",
     "editorLightBulbAutoFix.foreground": "#ff4574",
     "editorLineNumber.activeForeground": "#d634b0",
@@ -160,7 +160,7 @@
     "editorSuggestWidget.selectedIconForeground": "#d634b0",
     "editorSuggestWidgetStatus.foreground": "#d634b0",
     "editorUnnecessaryCode.opacity": "#00000077",
-    "editorWarning.foreground": "#e2b213",
+    "editorWarning.foreground": "#d5a711",
     "editorWhitespace.foreground": "#caaaaa",
     "editorWidget.background": "#fcdee9",
     "editorWidget.border": "#ff4574",
@@ -173,14 +173,14 @@
     "extensionButton.prominentHoverBackground": "#d634b0aa",
     "focusBorder": "#d4d4d4",
     "foreground": "#720d55",
-    "gitDecoration.addedResourceForeground": "#62ad44",
-    "gitDecoration.conflictingResourceForeground": "#e6009d",
+    "gitDecoration.addedResourceForeground": "#54a434",
+    "gitDecoration.conflictingResourceForeground": "#e60026",
     "gitDecoration.deletedResourceForeground": "#d14040",
     "gitDecoration.ignoredResourceForeground": "#894a6980",
-    "gitDecoration.modifiedResourceForeground": "#e49f29",
-    "gitDecoration.renamedResourceForeground": "#a38801",
+    "gitDecoration.modifiedResourceForeground": "#8533d2",
+    "gitDecoration.renamedResourceForeground": "#cd009a",
     "gitDecoration.stageDeletedResourceForeground": "#ff0062",
-    "gitDecoration.submoduleResourceForeground": "#8533d2",
+    "gitDecoration.submoduleResourceForeground": "#005aba",
     "gitDecoration.untrackedResourceForeground": "#309566",
     "gitlens.gutterBackgroundColor": "#0000000c",
     "gitlens.gutterForegroundColor": "#747474",
@@ -203,7 +203,7 @@
     "inputValidation.warningBackground": "#fffee2",
     "inputValidation.warningBorder": "#ffe055",
     "list.activeSelectionBackground": "#f5eaf500",
-    "list.activeSelectionForeground": "#fc24b4",
+    "list.activeSelectionForeground": "#e813b6",
     "list.deemphasizedForeground": "#d6086f80",
     "list.dropBackground": "#f5eaf5",
     "list.filterMatchBackground": "#97428350",
@@ -213,7 +213,7 @@
     "list.hoverBackground": "#ffffff00",
     "list.hoverForeground": "#d634b0d5",
     "list.inactiveSelectionBackground": "#f5eaf560",
-    "list.inactiveSelectionForeground": "#d634b0",
+    "list.inactiveSelectionForeground": "#d10fa4",
     "list.warningForeground": "#cb650c",
     "listFilterWidget.background": "#ecc3e150",
     "listFilterWidget.noMatchesOutline": "#db6363",
@@ -310,7 +310,7 @@
     "sideBar.background": "#f5eaf5",
     "sideBar.border": "#ecc3e180",
     "sideBar.dropBackground": "#ff00ff",
-    "sideBar.foreground": "#d6086fa0",
+    "sideBar.foreground": "#a9105db0",
     "sideBarSectionHeader.background": "#f5eaf5",
     "sideBarSectionHeader.border": "#00000000",
     "sideBarSectionHeader.foreground": "#6c0334cc",
@@ -832,7 +832,7 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#1dae13"
+        "foreground": "#4cae13"
       }
     },
     {
@@ -841,7 +841,7 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#aeb707"
+        "foreground": "#899004"
       }
     },
     {
@@ -850,7 +850,7 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#ee9f0a"
+        "foreground": "#b97302"
       }
     },
     {
@@ -859,7 +859,7 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#ee666d"
+        "foreground": "#db555b"
       }
     },
     {
@@ -913,7 +913,7 @@
       "scope": ["markup.italic"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#71acf0"
+        "foreground": "#4b88cf"
       }
     },
     {
@@ -921,7 +921,7 @@
       "scope": ["markup.bold", "markup.bold string"],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#bc5663"
+        "foreground": "#814ada"
       }
     },
     {
@@ -935,8 +935,9 @@
         "markup.quote markup.bold string"
       ],
       "settings": {
-        "fontStyle": "bold",
-        "foreground": "#8ff071"
+        "fontStyle": "italic bold",
+
+        "foreground": "#4b88cf"
       }
     },
     {
