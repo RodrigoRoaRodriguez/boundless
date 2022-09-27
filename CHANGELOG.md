@@ -4,6 +4,8 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### [0.1.7](https://github.com/RodrigoRoaRodriguez/boundless/compare/v0.1.6...v0.1.7) (2022-09-27)
 
+Lighter background for better contrast. The active selection foreground is now a darker for better visibility, and the background pinker for better aesthetics .
+
 ### [0.1.6](https://github.com/RodrigoRoaRodriguez/boundless/compare/v0.1.5...v0.1.6) (2022-09-11)
 
 Alternate status bars colors. Text contrast has been ensured between background and foreground for alternate status bars for legibility.
