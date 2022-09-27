@@ -23,7 +23,7 @@
     "notebooks",
     "jupyter"
   ],
-  "version": "0.1.6",
+  "version": "0.1.7",
   "engines": {
     "vscode": "^1.45.0"
   },
