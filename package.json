@@ -46,6 +46,11 @@
         "label": "Boundless Flamingo",
         "uiTheme": "vs",
         "path": "./themes/Boundless-flamingo-color-theme.json"
+      },
+      {
+        "label": "Boundless Moa",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Boundless-Moa-color-theme.json"
       }
     ]
   },
