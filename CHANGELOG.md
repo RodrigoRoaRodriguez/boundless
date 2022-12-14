@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.8](https://github.com/RodrigoRoaRodriguez/boundless/compare/v0.1.7...v0.1.8) (2022-12-14)
+
 ### [0.1.7](https://github.com/RodrigoRoaRodriguez/boundless/compare/v0.1.6...v0.1.7) (2022-09-27)
 
 Lighter background for better contrast. The active selection foreground is now a darker for better visibility, and the background pinker for better aesthetics .
