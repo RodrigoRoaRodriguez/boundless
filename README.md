@@ -1,19 +1,31 @@
 The original boundless theme, flat edgeless low contrast backgrounds, for distraction free coding.
 
-# Boundless Flamingo
+# Themes
 
-Introducing a new theme, Boundless Flamingo. The pinkest theme you have ever seen. Light and fluffy, with a touch of a bit of a purple. Mid contrast text, and bright colors to cheer up your coding experience.
+This extension contributes the following hand crafted themes:
+
+## Boundless
+
+Flat edgeless low contrast backgrounds and cool high contrast text, to fade away the fluff and highlight what really matters: your code.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RodrigoRoaRodriguez/boundless/master/boundless.png" alt="Screenshot">
+</p>
+
+## Boundless Flamingo
+
+The pinkest theme you have ever seen. Light and fluffy, with a touch of a bit of a purple. Mid contrast text, and bright colors to cheer up your coding experience.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/RodrigoRoaRodriguez/boundless/master/flamingo.png" alt="boundless flamingo theme">
 </p>
 
-# Boundless
+## Boundless Moa
 
-Flat edgeless low contrast backgrounds and high contrast text, to fade away the fluff and highlight what really matters: your code.
+Introducing, Boundless Moa. Do you find yourself liking the syntax highlighting of Boundless Flamingo but the dark UI of Boundless? Well, this is the theme for you. A dark UI with a bright syntax highlighting.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RodrigoRoaRodriguez/boundless/master/Screenshot.png" alt="Screenshot">
+  <img src="https://raw.githubusercontent.com/RodrigoRoaRodriguez/boundless/master/moa.png" alt="boundless flamingo theme">
 </p>
 
 # Bracket colorization
