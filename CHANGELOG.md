@@ -4,6 +4,15 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### [0.1.8](https://github.com/RodrigoRoaRodriguez/boundless/compare/v0.1.7...v0.1.8) (2022-12-14)
 
+- Add 'Boundless Moa' theme. A theme that combines the syntax highlighting of Boundless Flamingo with the UI of Boundless.
+- New readme screenshots for Boundless and Boundless Flamingo.
+
+#### Boundless and Boundless Flamingo:
+
+- Makes the activity bar and inactive lighter.
+- Makes the color of the inactive tabs in the activity bar match the color of the selected tab in the editor.
+- Flips around the bracket colorization so that the colors get angrier as the nesting level increases.
+
 ### [0.1.7](https://github.com/RodrigoRoaRodriguez/boundless/compare/v0.1.6...v0.1.7) (2022-09-27)
 
 Lighter background for better contrast. The active selection foreground is now a darker for better visibility, and the background pinker for better aesthetics .
